@@ -1,0 +1,8 @@
+"DisplayName","Id"
+Default Domain Policy,31b2f340-016d-11d2-945f-00c04fb984f9
+AppLockerGPO,52a14884-2fa9-44c2-add7-8ff87a020169
+Default Domain Controllers Policy,6ac1786c-016f-11d2-945f-00c04fb984f9
+WSUS Policy,9b2dc350-4e18-4dc5-bb3e-16841fa1097a
+NotImplimented,aeda3255-07f8-46dc-8d57-c6281fd2ac7d
+DisableMacros,cb8c053f-3225-4525-9fa4-b8331b42895b
+AuditLogins,d83112d0-90e0-413e-98d0-0bbc600c6b50
