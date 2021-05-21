@@ -1,3 +1,3 @@
 "AppLockerPolicy","Dll","Appx","Exe","Msi"
-AuditLogins,Not Configured,Not Configured,Audit Only,Not Configured
-AppLockerGPO,Not Configured,Not Configured,Audit Only,Audit Only
+AuditLogins,0,0,1,0
+AppLockerGPO,0,0,1,1
