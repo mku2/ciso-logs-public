@@ -1,4 +1,4 @@
 ﻿"Name","TargetGroups","Classifications","Enabled"
-Default Automatic Approval Rule,All Computers,"Critical Updates, Security Updates",Disabled
-Approve Security and Critical for Sec Crit Update Group,"All Security, Critical Updates Approved","Critical Updates, Security Updates",Enabled
+Default Automatic Approval Rule,All Computers,"Critical Updates, Security Updates",0
+Approve Security and Critical for Sec Crit Update Group,"All Security, Critical Updates Approved","Critical Updates, Security Updates",1
 
